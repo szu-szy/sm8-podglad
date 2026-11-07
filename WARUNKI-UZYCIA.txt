@@ -1,0 +1,38 @@
+WARUNKI UŻYCIA: STRONA ŚW. MIKOŁAJA 8 (kuleszagroup.pl)
+Stan na 7 listopada 2026
+
+1. WŁAŚCICIEL
+Kod źródłowy (HTML, CSS, JavaScript, generator) oraz projekt graficzny tej strony
+są własnością Impact Agencja.
+
+2. PRZEZNACZENIE
+Kod i projekt są przeznaczone wyłącznie do użycia na stronie kuleszagroup.pl
+dla inwestycji Św. Mikołaja 8 (Kulesza Group Spółka Komandytowa).
+
+3. DEVELOPER MANAGER
+Developer Manager otrzymuje dostęp wyłącznie w celu wdrożenia strony
+na kuleszagroup.pl. Bez pisemnej zgody Impact Agencja nie wolno:
+- używać kodu ani projektu, w całości lub w części, na innej stronie,
+  w innym projekcie, szablonie lub produkcie,
+- przekazywać ich osobom trzecim,
+- umieszczać tej strony w portfolio, referencjach ani materiałach promocyjnych,
+  w tym w formie zrzutów ekranu, opisów i linków,
+- ogłaszać się ani przedstawiać jako wykonawca lub autor tej strony.
+
+4. STOPKA STRONY
+W stopce strony dopuszczalna jest jedna z dwóch wersji:
+- "Realizacja strony: Impact Agencja" (link do https://impactagencja.pl/
+  z atrybutem rel="nofollow") oraz "Oprogramowanie: Developer Manager",
+- albo brak informacji zarówno o Impact Agencja, jak i o Developer Manager.
+
+5. PODPISANY DOKUMENT PRZED PUBLIKACJĄ
+Przed publikacją przedstawiciel Developer Manager podpisuje dokument PDF z tymi warunkami
+(czytelny podpis i data) i odsyła go mailowo na adres: sz.szumski@impact-ads.pl
+Dokument do podpisu: Warunki-uzycia-Sw-Mikolaja-8-Impact-Agencja.pdf
+
+6. MATERIAŁY OSÓB TRZECICH
+Warunki nie obejmują logo, wizualizacji, zdjęć, filmu, danych i treści inwestycji,
+które należą do ich właścicieli. Fonty (Bodoni Moda, Jost) i ikony (Phosphor)
+zachowują swoje otwarte licencje.
+
+Kontakt: sz.szumski@impact-ads.pl
